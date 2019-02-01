@@ -1,4 +1,4 @@
-# Data-Cleaning-Manually-NLTK-
+# Data-Cleaning-Manually and NLTK
 Cleaning text data by dividing it into words, Manually or using NLTK Library 
 
 taken the text from the book Metamorphosis by Franz Kafka.
