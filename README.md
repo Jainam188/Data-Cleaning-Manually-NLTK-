@@ -23,6 +23,10 @@ There are mainly two ways to clean data
 
 I have done it in both ways.
 
+I personally think that NLTK has some cool inbuild function that can help in many ways.
+
+one of the main feature is to remove stamming from the word.
+
 For more Understanding visit 
 
 https://machinelearningmastery.com/clean-text-machine-learning-python/
