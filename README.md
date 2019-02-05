@@ -23,7 +23,7 @@ There are mainly two ways to clean data
 
 I have done it in both ways.
 
-I personally think that NLTK has some cool inbuild function that can help in many ways.
+I personally think that NLTK has some cool inbuild function that can help in many ways,  but if you really want to learn how the data cleaning work than first go with manually after that you can go with NLTK.
 
 one of the main feature is to remove stamming from the word.
 
