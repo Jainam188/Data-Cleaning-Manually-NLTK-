@@ -1,4 +1,5 @@
 # import nltk
+# download this if any error comes regarding stopwords and punkt.
 # nltk.download('punkt')
 # nltk.download('stopwords')
 
