@@ -17,9 +17,9 @@ there are some small changes also needs to be covered. It's totally depend on yo
 
 There are mainly two ways to clean data
 
-1 Manually
+    1 Manually
 
-2 Using Natural Language ToolKit(NLTK) Library
+    2 Using Natural Language ToolKit(NLTK) Library
 
 I have done it in both ways.
 
@@ -29,5 +29,5 @@ one of the main feature is to remove stamming from the word.
 
 For more Understanding visit 
 
-https://machinelearningmastery.com/clean-text-machine-learning-python/
-By Jason Brownlee
+    https://machinelearningmastery.com/clean-text-machine-learning-python/
+    By Jason Brownlee
